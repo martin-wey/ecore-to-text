@@ -1,2 +1,2 @@
-# ecore-code-generator
-Generate code from ECore models
+# Ecore to text model transformation
+Generate tree representation of metamodels using XTend model transformation
